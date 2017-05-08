@@ -355,6 +355,20 @@ textarea {
 		width: 100%;
 	}
 
+	#boxLeft img{
+		float:none;
+		position:static;
+		width:100%;
+		margin-left: 0;
+	}
+
+	#boxRight img{
+		float:none;
+		margin-right: 0;
+		width:100%;
+
+	}
+
 	
 }
 
